@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/XtraGlimpses-Website/static/css/main.af25a46c.chunk.css",
+    "main.js": "/XtraGlimpses-Website/static/js/main.83d7e7c6.chunk.js",
+    "main.js.map": "/XtraGlimpses-Website/static/js/main.83d7e7c6.chunk.js.map",
+    "runtime-main.js": "/XtraGlimpses-Website/static/js/runtime-main.c9ae93f4.js",
+    "runtime-main.js.map": "/XtraGlimpses-Website/static/js/runtime-main.c9ae93f4.js.map",
+    "static/css/2.2894c9e2.chunk.css": "/XtraGlimpses-Website/static/css/2.2894c9e2.chunk.css",
+    "static/js/2.f71a8faf.chunk.js": "/XtraGlimpses-Website/static/js/2.f71a8faf.chunk.js",
+    "static/js/2.f71a8faf.chunk.js.map": "/XtraGlimpses-Website/static/js/2.f71a8faf.chunk.js.map",
+    "index.html": "/XtraGlimpses-Website/index.html",
+    "static/css/2.2894c9e2.chunk.css.map": "/XtraGlimpses-Website/static/css/2.2894c9e2.chunk.css.map",
+    "static/css/main.af25a46c.chunk.css.map": "/XtraGlimpses-Website/static/css/main.af25a46c.chunk.css.map",
+    "static/js/2.f71a8faf.chunk.js.LICENSE.txt": "/XtraGlimpses-Website/static/js/2.f71a8faf.chunk.js.LICENSE.txt",
+    "static/media/boxicons.min.css": "/XtraGlimpses-Website/static/media/boxicons.cbd149c5.ttf",
+    "static/media/footer-bg.67e95f05.jpg": "/XtraGlimpses-Website/static/media/footer-bg.67e95f05.jpg",
+    "static/media/tmovie.67797e94.png": "/XtraGlimpses-Website/static/media/tmovie.67797e94.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9ae93f4.js",
+    "static/css/2.2894c9e2.chunk.css",
+    "static/js/2.f71a8faf.chunk.js",
+    "static/css/main.af25a46c.chunk.css",
+    "static/js/main.83d7e7c6.chunk.js"
+  ]
+}
