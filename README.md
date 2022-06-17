@@ -4,8 +4,6 @@
 
 # Preview
 
-!["Responsive React Movies App With API"](https://user-images.githubusercontent.com/67447840/136721197-be990f3a-cae2-4757-9eb7-c0796f4a3834.png "Responsive React Movies App With API")
-
 !["Responsive React Movies App With API"](https://user-images.githubusercontent.com/67447840/136721135-f64988cf-af31-495f-988c-c24ab10cbade.png "Responsive React Movies App With API")
 
 !["Responsive React Movies App With API"](https://user-images.githubusercontent.com/67447840/136721056-733be8a6-7af6-424b-a74e-eb65980a5464.png "Responsive React Movies App With API")
