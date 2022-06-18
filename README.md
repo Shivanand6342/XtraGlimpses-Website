@@ -21,6 +21,23 @@
 ✔ Completed
 - Have a look 👉 [XtraGlimpses](https://shivanand6342.github.io/XtraGlimpses-Website/)
 
+## **How to Downlaod**
+- First Download the ZIP File of the Project.
+- Extract it, and Open it your IDE(prefer VS Code).
+- Then open terminal and run this command:<br><br>
+  npm i react-router-dom axios query-string sass swiper@6.8.4 --save<br><br>
+- After this command, you will see node-modules folder is installed on your project. (If still not visible then run this command)<br><br>
+  npm install -g node-modules<br><br>
+- Your project is Almost Ready now.
+- Now Remaining is API key which you will get from TMDB's website.
+- Simply login to TMDB's website and then click on your profile icon and hover to settings.
+- On left side panel you will see API option, click on it.
+- Then in API Key (v3 auth) section, you will have your API Key, copy it and paste it on src/api/apiConfig.js
+- Paste your API key on apiKey's value.
+- And then on command terminal, run this command<br><br>
+npm start<br><br>
+- Congratulations, now you have XtraGlimpses on your PC.
+
 ## **Project Sample Screen Shot(s)**  
 <hr>
 <h5 align="center">Home Page</h5>
