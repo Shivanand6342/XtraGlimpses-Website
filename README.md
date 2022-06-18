@@ -25,15 +25,15 @@
 <hr>
 <h5 align="center">Home Page</h5>
 <hr><br>
-<img width="1000" src="https://i.postimg.cc/sxdjZGJx/Home-Page.png">
+<a href="https://ibb.co/Khs9wxQ"><img width="1000px" src="https://i.ibb.co/SymKrw1/Home-Page.png" alt="Home-Page" border="0"></a>
 <br><hr>
 <h5 align="center">Movie Page</h5>
 <hr><br>
-<img width="1000" src="https://i.postimg.cc/L8Xp5VMv/Movies-Page.png">
+<a href="https://ibb.co/vV8cnwT"><img width="1000px" src="https://i.ibb.co/tQ5Hrmv/Movies-Page.png" alt="Movies-Page" border="0"></a>
 <br><hr>
 <h5 align="center">TV Series Page</h5>
 <hr><br>
-<img width="1000" src="https://i.postimg.cc/9XY5BkmJ/TV-Page.png">
+<a href="https://ibb.co/Yhh60wR"><img src="https://i.ibb.co/3ccwRQr/TV-Page.png" alt="TV-Page" border="0"></a>
 <br><br><br>
 
 
