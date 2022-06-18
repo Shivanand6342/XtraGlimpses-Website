@@ -33,7 +33,7 @@
 <br><hr>
 <h5 align="center">TV Series Page</h5>
 <hr><br>
-<a href="https://ibb.co/Yhh60wR"><img src="https://i.ibb.co/3ccwRQr/TV-Page.png" alt="TV-Page" border="0"></a>
+<a href="https://ibb.co/Yhh60wR"><img width="1000px" src="https://i.ibb.co/3ccwRQr/TV-Page.png" alt="TV-Page" border="0"></a>
 <br><br><br>
 
 
