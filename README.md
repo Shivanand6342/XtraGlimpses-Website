@@ -7,7 +7,7 @@
   * Movies <br>
     -> Trending Movies <br>
     -> Top Rated Movies
-  * TV Shows <br>
+  * TV Series <br>
     -> Trending TV <br>
     -> Top Rated TV
 - XtraGlimpses consists of Trailer, Bloopers, Remixes, First 10 mins, Special Features and many more.
@@ -24,15 +24,15 @@
 ## **Project Sample Screen Shot(s)**  
 <hr>
 <h5 align="center">Home Page</h5>
-<hr>
+<hr><br>
 <img width="1000" src="https://i.postimg.cc/sxdjZGJx/Home-Page.png">
-<hr>
+<br><hr>
 <h5 align="center">Movie Page</h5>
-<hr>
+<hr><br>
 <img width="1000" src="https://i.postimg.cc/L8Xp5VMv/Movies-Page.png">
-<hr>
-<h5 align="center">TV Page</h5>
-<hr>
+<br><hr>
+<h5 align="center">TV Series Page</h5>
+<hr><br>
 <img width="1000" src="https://i.postimg.cc/9XY5BkmJ/TV-Page.png">
 <br><br><br>
 
