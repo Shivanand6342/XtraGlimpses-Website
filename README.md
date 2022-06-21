@@ -36,7 +36,7 @@
 - Paste your API key on apiKey's value.
 - And then on command terminal, run this command<br><br>
 npm start<br><br>
-- Congratulations, now you have XtraGlimpses on your PC.
+- Save it. Congratulations, now you have XtraGlimpses on your PC.
 
 ## **Project Sample Screen Shot(s)**  
 <hr>
